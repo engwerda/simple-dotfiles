@@ -8,7 +8,9 @@
     ~/.gitconfig: gitconfig
     ~/.tmux.conf: tmux.conf
     ~/.vimrc: vimrc
-    ~/.zshrc: zshrc
+     ~/.zshrc:
+      force: true
+      path: zshrc
     ~/.zsh/alias.zsh:
       create: true
       path: zsh/alias.zsh
