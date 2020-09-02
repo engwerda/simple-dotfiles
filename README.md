@@ -7,7 +7,7 @@ Dotfiles I use on Ubuntu servers.
 **Update ubuntu**
 ```shell
 sudo apt update
-sudo apt install
+sudo apt upgrade
 ```
 
 **Install packages**
