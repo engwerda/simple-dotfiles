@@ -11,9 +11,7 @@
     ~/.zshrc:
       force: true
       path: zshrc
-    ~/.zsh/alias.zsh:
-      create: true
-      path: zsh/alias.zsh
+    ~/.zsh: zsh
 
 
 - create:
