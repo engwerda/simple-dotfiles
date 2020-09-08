@@ -53,8 +53,6 @@ ZSH_CUSTOM=~/.zsh
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-    bower
-    celery
     colored-man-pages
     colorize
     common-aliases
@@ -86,7 +84,6 @@ plugins=(
     systemd
     ubuntu
     ufw
-    vagrant
     web-search
     wd
     yarn
