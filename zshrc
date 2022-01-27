@@ -60,7 +60,6 @@ plugins=(
     debian
     dircycle
     dirhistory
-    django
     docker
     encode64
     gem
