@@ -73,7 +73,6 @@ plugins=(
     last-working-dir
     ng
     npm
-    nvm
     pip
     pipenv
     pyenv
@@ -117,5 +116,5 @@ export EDITOR='vim'
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 
-
+export PATH="$HOME/.poetry/bin:$PATH"
 
